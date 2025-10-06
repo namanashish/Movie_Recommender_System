@@ -142,5 +142,6 @@ This project is open-source under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Naman Ashish**  
-📧 your.email@example.com  
-💼 [LinkedIn Profile or GitHub Profile]
+📧 ashishnaman.work@gmail.com  
+💼github.com/namanashish
+
